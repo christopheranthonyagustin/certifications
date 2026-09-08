@@ -200,6 +200,7 @@ Cloud and infrastructure projects demonstrating experience in technical delivery
 
 | Project | Infrastructure Highlights |
 |----------|---------------------------|
+| [Order Management Systems (OMS) and Shipment Tracking & Logistics Integration](Projects/ShopifyLarkTracker/docs/requirements/README.md) | On-Premises to Windows Azure migration, Hyper-V virtualization, SDLC environment management, High Availability (HA), Disaster Recovery (DR), Windows Server, SQL Server |
 | [WLocate – Enterprise Infrastructure & Cloud Foundation](Projects/Infra/WLocate/README.md) | On-Premises to Windows Azure migration, Hyper-V virtualization, SDLC environment management, High Availability (HA), Disaster Recovery (DR), Windows Server, SQL Server |
 | [BUCLocate – Azure Fleet Management Platform](Projects/Infra/BUC/README.md) | Microsoft Azure, Azure Virtual Machines, Azure SQL Database Migration, IIS, Windows Services, GPS/UDP Communication, OTA Device Management |
 | [Comfort Ambulance – Job Dispatch System](Projects/Infra/Comfort/README.md) | Enterprise Solution Deployment, Customer Environment Provisioning, Job Dispatch Workflow, Android MDT Integration, MySQL, Production Deployment, UAT & Go-Live |
