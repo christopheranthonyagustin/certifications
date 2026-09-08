@@ -172,25 +172,25 @@ Highlights include certifications and credentials in:
 
 ## Enterprise Software Portfolio
 
-Enterprise software projects demonstrating experience in technical project delivery, requirements analysis, solution architecture, systems integration, and hands-on implementation across logistics, healthcare, warehouse management, fleet and transport, cloud applications, and AI-powered solutions.
+Enterprise software projects demonstrating the application of technical project management, requirements analysis, solution delivery, stakeholder coordination, and hands-on technical execution across logistics, healthcare, warehouse management, fleet and transport, cloud applications, and AI-powered solutions.
 
-| Project | Solution / Experience Highlights |
-|----------|----------------------------------|
-| [Order Management Systems (OMS) and Shipment Tracking & Logistics Integration](https://github.com/christopheranthonyagustin/portfolio/tree/main/Projects/ShopifyLarkTracker) | Shopify order synchronization, shipment tracking, logistics API integration, delivery visibility, operational workflows |
-| [Healthcare Technology and Medical Software](https://github.com/christopheranthonyagustin/portfolio/blob/main/Projects/VSynC%20App/medsol-software-vsync_web_app-da4e4eceadf3/README.md) | Healthcare technology, medical software, mobile applications, cloud backend, regulated software development |
-| [Warehouse Management Systems (WMS)](https://github.com/christopheranthonyagustin/portfolio/tree/main/Projects/AceCom%20System/iLOGON_ACE) | Warehouse operations, inventory management, order processing, enterprise application delivery |
-| [Fleet & Transport Management System](https://github.com/christopheranthonyagustin/portfolio/tree/main/Projects/Track) | Fleet tracking, GPS/telematics, transport operations, dispatch, route and driver management |
-| [Cloud-Based Applications](https://github.com/christopheranthonyagustin/portfolio/tree/main/Projects/System%20Pest) | Cloud application architecture, web applications, backend services, deployment and integration |
-| [AI-Powered Career Analysis Platform](https://github.com/christopheranthonyagustin/portfolio/tree/main/Projects/CareerOps/CareerOps.Api) | AI/LLM integration, job analysis, automation, APIs, Python backend and cloud deployment |
+| Project | PM / Delivery Skills Demonstrated |
+|----------|-----------------------------------|
+| [Order Management Systems (OMS) and Shipment Tracking & Logistics Integration](https://github.com/christopheranthonyagustin/portfolio/tree/main/Projects/ShopifyLarkTracker) | Requirements analysis, business-to-technical translation, workflow definition, solution design, scope and priority management, technical coordination, API evaluation and testing, operational validation, documentation, and incremental improvement |
+| [Healthcare Technology and Medical Software](https://github.com/christopheranthonyagustin/portfolio/blob/main/Projects/VSynC%20App/medsol-software-vsync_web_app-da4e4eceadf3/README.md) | Technical project management, requirements coordination, cross-functional delivery, risk and quality considerations, software development lifecycle, testing and validation, stakeholder coordination, and regulated software delivery |
+| [Warehouse Management Systems (WMS)](https://github.com/christopheranthonyagustin/portfolio/tree/main/Projects/AceCom%20System/iLOGON_ACE) | Requirements and workflow analysis, enterprise system delivery, stakeholder coordination, solution implementation, integration planning, testing, deployment, and operational support |
+| [Fleet & Transport Management System](https://github.com/christopheranthonyagustin/portfolio/tree/main/Projects/Track) | Requirements analysis, product/workflow definition, technical project delivery, stakeholder coordination, system evolution, integration planning, testing, and operational improvement |
+| [Cloud-Based Applications](https://github.com/christopheranthonyagustin/portfolio/tree/main/Projects/System%20Pest) | Solution planning, technical architecture, application delivery, cloud deployment, integration, technical decision-making, testing, and implementation |
+| [AI-Powered Career Analysis Platform](https://github.com/christopheranthonyagustin/portfolio/tree/main/Projects/CareerOps/CareerOps.Api) | Requirements definition, solution design, AI/LLM evaluation, technical implementation, API integration, automation, testing, cloud deployment, and iterative development |
 
 ## Systems Integration Portfolio
 
-Integration projects demonstrating experience in requirements analysis, solution design, technical coordination, API and EDI integration, testing, and delivery across e-commerce, logistics, POS, and enterprise systems.
+Integration projects demonstrating the application of requirements analysis, solution design, technical coordination, dependency management, testing, and delivery across e-commerce, logistics, POS, and enterprise systems.
 
-| Project | Integration / Technology Highlights |
-|----------|--------------------------------------|
-| [API and Webhook Integrations](https://github.com/christopheranthonyagustin/portfolio/tree/main/Projects/smartmall-netsclick-main) | REST APIs, webhooks, third-party system integration, e-commerce and enterprise system connectivity |
-| [EDI & File-Based Integrations](https://github.com/christopheranthonyagustin/portfolio/tree/main/Projects/SalesDataConverterApp%20v.1.7.8) | EDI processing, file-based data exchange, data transformation and integration automation |
+| Project | PM / Delivery Skills Demonstrated |
+|----------|-----------------------------------|
+| [API and Webhook Integrations](https://github.com/christopheranthonyagustin/portfolio/tree/main/Projects/smartmall-netsclick-main) | Integration requirements analysis, API evaluation, technical coordination, dependency management, integration testing, troubleshooting, and solution delivery |
+| [EDI & File-Based Integrations](https://github.com/christopheranthonyagustin/portfolio/tree/main/Projects/SalesDataConverterApp%20v.1.7.8) | Requirements analysis, data-flow definition, integration design, technical coordination, validation, troubleshooting, and delivery of file-based integration workflows |
 
 ## Cloud & Infrastructure Portfolio
 
