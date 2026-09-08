@@ -172,7 +172,7 @@ Highlights include certifications and credentials in:
 
 ## Enterprise Software Portfolio
 
-Enterprise software projects demonstrating experience across logistics, healthcare, warehouse management, fleet and transport, cloud applications, and AI-powered solutions.
+Enterprise software projects demonstrating experience in technical project delivery, requirements analysis, solution architecture, systems integration, and hands-on implementation across logistics, healthcare, warehouse management, fleet and transport, cloud applications, and AI-powered solutions.
 
 | Project | Solution / Experience Highlights |
 |----------|----------------------------------|
@@ -185,7 +185,7 @@ Enterprise software projects demonstrating experience across logistics, healthca
 
 ## Systems Integration Portfolio
 
-Integration projects demonstrating experience connecting enterprise, e-commerce, logistics, POS, and external systems through APIs, EDI, webhooks, and file-based interfaces.
+Integration projects demonstrating experience in requirements analysis, solution design, technical coordination, API and EDI integration, testing, and delivery across e-commerce, logistics, POS, and enterprise systems.
 
 | Project | Integration / Technology Highlights |
 |----------|--------------------------------------|
@@ -194,7 +194,7 @@ Integration projects demonstrating experience connecting enterprise, e-commerce,
 
 ## Cloud & Infrastructure Portfolio
 
-My experience includes enterprise IT infrastructure operations, cloud platform delivery, disaster recovery planning, infrastructure governance, and vendor management across logistics and healthcare environments.
+Cloud and infrastructure projects demonstrating experience in technical delivery, infrastructure architecture, migration planning, deployment, disaster recovery, environment management, governance, and vendor coordination.
 
 ## Cloud & Infrastructure Portfolio
 
