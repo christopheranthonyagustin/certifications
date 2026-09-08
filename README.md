@@ -149,27 +149,57 @@ Email: [christopheranthonyagustin@gmail.com](mailto:christopheranthonyagustin@gm
 
 ## Certification Summary
 
-Highlights include certifications in:
+Highlights include certifications and credentials in:
 
-- API Design & Product Management
 - Project Management
 - Scrum & Agile
+- API Design & Product Management
 - Quality Management (ISO 9001)
 - Information Security (ISO 27001)
 - IT Service Management (ISO 20000)
 - Lean & Six Sigma
-- Infrastructure
+- Infrastructure & Systems Administration
 - Cloud Computing
-- IT Service Management
 - Cybersecurity
 - Software Architecture
 - Healthcare Technology
 
-Total Certifications and Credentials: 25+
+**Total Certifications and Credentials: 25+**
 
 ---
 
 # Project Portfolio
+
+## Enterprise Software Portfolio
+
+My project experience also includes enterprise software delivery across logistics, healthcare, cloud platforms, systems integration, and AI-powered applications.
+
+* [Order Management Systems (OMS) and Shipment Tracking & Logistics Integration](https://github.com/christopheranthonyagustin/portfolio/tree/main/Projects/ShopifyLarkTracker)
+* [Healthcare Technology and Medical Software](https://github.com/christopheranthonyagustin/portfolio/blob/main/Projects/VSynC%20App/medsol-software-vsync_web_app-da4e4eceadf3/README.md)
+* [Warehouse Management Systems (WMS)](https://github.com/christopheranthonyagustin/portfolio/tree/main/Projects/AceCom%20System/iLOGON_ACE)
+* [Fleet & Transport Management System](https://github.com/christopheranthonyagustin/portfolio/tree/main/Projects/Track)
+* [Cloud-Based Applications](https://github.com/christopheranthonyagustin/portfolio/tree/main/Projects/System%20Pest)
+* [AI-Powered Career Analysis Platform](https://github.com/christopheranthonyagustin/portfolio/tree/main/Projects/CareerOps/CareerOps.Api)
+
+## Systems Integration Portfolio
+
+Projects involving enterprise, e-commerce, logistics, POS, API, EDI, webhook, and third-party system integrations.
+
+* [API and Webhook Integrations](https://github.com/christopheranthonyagustin/portfolio/tree/main/Projects/smartmall-netsclick-main)
+* [EDI & File-Based Integrations](https://github.com/christopheranthonyagustin/portfolio/tree/main/Projects/SalesDataConverterApp%20v.1.7.8)
+
+## Cloud & Infrastructure Portfolio
+
+My experience includes enterprise IT infrastructure operations, cloud platform delivery, disaster recovery planning, infrastructure governance, and vendor management across logistics and healthcare environments.
+
+## Cloud & Infrastructure Portfolio
+
+| Project | Infrastructure Highlights |
+|----------|---------------------------|
+| [WLocate – Enterprise Infrastructure & Cloud Foundation](Projects/Infra/WLocate/README.md) | On-Premises to Windows Azure migration, Hyper-V virtualization, SDLC environment management, High Availability (HA), Disaster Recovery (DR), Windows Server, SQL Server |
+| [BUCLocate – Azure Fleet Management Platform](Projects/Infra/BUC/README.md) | Microsoft Azure, Azure Virtual Machines, Azure SQL Database Migration, IIS, Windows Services, GPS/UDP Communication, OTA Device Management |
+| [Comfort Ambulance – Job Dispatch System](Projects/Infra/Comfort/README.md) | Enterprise Solution Deployment, Customer Environment Provisioning, Job Dispatch Workflow, Android MDT Integration, MySQL, Production Deployment, UAT & Go-Live |
+| [AceCom – Enterprise IT Infrastructure Operations & Governance](Projects/Infra/AceCom/README.md) | Active Directory, Windows Server, SQL Server, Disaster Recovery, IT Governance, Vendor Management |
 
 ## Shopify Portfolio
 
@@ -191,32 +221,6 @@ https://www.fiverr.com/s/DBDxrKD
 | [Laifen Singapore](Projects/Shopify/Laifen%20Singapore/README.md) | Consumer Electronics | Singapore | IT Specialist |
 | [Robam Singapore](Projects/Shopify/Robam%20Singapore/README.md) | Kitchen Appliances | Singapore | Technical Consultant |
 | [Elisir](Projects/Shopify/Elisir/README.md) | Health & Wellness | Singapore | IT Project Manager |
-
-## Cloud & Infrastructure Portfolio
-
-My experience includes enterprise IT infrastructure operations, cloud platform delivery, disaster recovery planning, infrastructure governance, and vendor management across logistics and healthcare environments.
-
-## Cloud & Infrastructure Portfolio
-
-| Project | Infrastructure Highlights |
-|----------|---------------------------|
-| [WLocate – Enterprise Infrastructure & Cloud Foundation](Projects/Infra/WLocate/README.md) | On-Premises to Windows Azure migration, Hyper-V virtualization, SDLC environment management, High Availability (HA), Disaster Recovery (DR), Windows Server, SQL Server |
-| [BUCLocate – Azure Fleet Management Platform](Projects/Infra/BUC/README.md) | Microsoft Azure, Azure Virtual Machines, Azure SQL Database Migration, IIS, Windows Services, GPS/UDP Communication, OTA Device Management |
-| [Comfort Ambulance – Job Dispatch System](Projects/Infra/Comfort/README.md) | Enterprise Solution Deployment, Customer Environment Provisioning, Job Dispatch Workflow, Android MDT Integration, MySQL, Production Deployment, UAT & Go-Live |
-| [AceCom – Enterprise IT Infrastructure Operations & Governance](Projects/Infra/AceCom/README.md) | Active Directory, Windows Server, SQL Server, Disaster Recovery, IT Governance, Vendor Management |
-
-## Enterprise Software Portfolio
-
-My project experience also includes enterprise software delivery across logistics, healthcare, cloud platforms, systems integration, and AI-powered applications.
-
-* [Order Management Systems (OMS)](https://github.com/christopheranthonyagustin/portfolio/tree/main/Projects/ShopifyLarkTracker)
-* [Warehouse Management Systems (WMS)](https://github.com/christopheranthonyagustin/portfolio/tree/main/Projects/AceCom%20System/iLOGON_ACE)
-* [API and Webhook Integrations](https://github.com/christopheranthonyagustin/portfolio/tree/main/Projects/smartmall-netsclick-main)
-* [EDI & File-Based Integrations](https://github.com/christopheranthonyagustin/portfolio/tree/main/Projects/SalesDataConverterApp%20v.1.7.8)
-* [Logistics and Shipment Tracking Solutions](https://github.com/christopheranthonyagustin/portfolio/tree/main/Projects/Track)
-* [Healthcare Technology and Medical Software](https://github.com/christopheranthonyagustin/portfolio/blob/main/Projects/VSynC%20App/medsol-software-vsync_web_app-da4e4eceadf3/README.md)
-* [Cloud-Based Applications](https://github.com/christopheranthonyagustin/portfolio/tree/main/Projects/System%20Pest)
-* [AI-Powered Career Analysis Platform](https://github.com/christopheranthonyagustin/portfolio/tree/main/Projects/CareerOps/CareerOps.Api)
 
 Project case studies and portfolio repositories are available throughout this GitHub repository.
 
