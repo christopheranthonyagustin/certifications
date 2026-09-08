@@ -408,11 +408,7 @@ The SRS documents the requirements and expected behavior that were used to guide
 
 Supporting Documentation
 
-Requirements & Workflow Documentation\(docs/requirements/README.md\)
-
-\(Integration Documentation\)\(docs/requirements/integration.md\)
-
-Testing & Validation Documentation\(docs/testing/README.md\)
+[Requirements & Workflow Documentation](docs/requirements/srs.pdf)
 
 Documentation was used to translate operational needs into implementable technical requirements and to provide a reference for subsequent development and enhancements.
 
@@ -438,9 +434,7 @@ ShopifyLarkTracker/
 │ │ └── shipment-by-channel.png
 │ │
 │ ├── requirements/
-│ │ ├── OMS-Software-Requirements-Specification.md
-│ │ ├── README.md
-│ │ └── integration.md
+│ │ ├── srs.pdf
 │ │
 │ └── testing/
 │ └── README.md
@@ -463,21 +457,19 @@ Operational requirements were translated into concrete order and shipment workfl
 
 Workflow → UI/UX
 
-The mass delivery-order workflow was defined through a UI/UX mockup before implementation.
-
-![Mass Creation of Delivery Orders – Mockup](docs/images/mass-delivery-order-mockup.png\)
-
-UI/UX → Implementation
+### UI/UX → Implementation
 
 The defined workflow was subsequently implemented as an operational interface.
 
-![Mass Creation of Delivery Orders – Implemented](docs/images/mass-delivery-order.png\)
+![Mass Creation of Delivery Orders – Mockup](docs/images/mass-delivery-order-mockup.png)
 
-Implementation → Operational Validation
+![Mass Creation of Delivery Orders – Implemented](docs/images/mass-delivery-order.png)
+
+### Implementation → Operational Validation
 
 The resulting interfaces support actual operational activities including shipment monitoring, verification, delivery-order processing, and reporting.
 
-![Operations Center](docs/images/operations-center.png\)
+![Operations Center](docs/images/operations-center.png)
 
 ## Project Delivery Practices
 
