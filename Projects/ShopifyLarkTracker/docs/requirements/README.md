@@ -1,4 +1,4 @@
-WNetwork is a lean technology environment where I work across application delivery, cloud infrastructure, integrations, deployment, technical support, and operational improvements.
+At WNetwork, I work across application delivery, cloud infrastructure, system integrations, deployment, technical support, and operational improvements within a lean technology environment.
 
 This project focuses specifically on the **cloud, infrastructure, architecture, deployment, and technical delivery practices** applied while supporting and evolving the WNetwork technology environment.
 
