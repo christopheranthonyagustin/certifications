@@ -1,7 +1,5 @@
 # Order Management Systems (OMS) and Shipment Tracking & Logistics Integration
 
-[svg](https://github.com/christopheranthonyagustin/portfolio/tree/main/Projects/ShopifyLarkTracker)
-
 End-to-end e-commerce-to-logistics integration initiative developed to improve order fulfillment visibility, shipment tracking, delivery verification, and operational processing across Shopify, logistics providers, middleware, and the operations platform.
 
 The project demonstrates the application of technical project management and delivery practices from operational requirements and workflow definition through solution design, implementation, integration testing, and operational validation.
