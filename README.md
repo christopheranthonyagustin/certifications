@@ -8,6 +8,25 @@
 
 ---
 
+## Project Management & Delivery
+
+This portfolio demonstrates hands-on technical project delivery across enterprise software, infrastructure, cloud, e-commerce, logistics, healthcare, and systems integration initiatives.
+
+Projects demonstrate:
+
+- End-to-end project lifecycle delivery
+- Requirements and scope management
+- Project planning and scheduling
+- Stakeholder and executive communication
+- Vendor and third-party coordination
+- Risk, issue and dependency management
+- Budgeting, Estimation & Cost Planning
+- KPI and operational reporting
+- UAT, release and go-live coordination
+- Technical solution evaluation and delivery
+- Governance, documentation and change management
+- Production Support & Operational Improvement
+
 ## Professional Summary
 
 Technical Project Manager with 15+ years of experience delivering enterprise software, infrastructure, cloud platforms, and systems integration projects across logistics, healthcare, e-commerce, transportation, and manufacturing industries.
@@ -23,14 +42,25 @@ I have successfully delivered projects involving enterprise applications, fleet 
 ## Enterprise Project Delivery
 
 - Technical Project Management
-- Agile & Scrum Delivery
+- Project Planning & Scheduling
+- Agile, Scrum & Waterfall Delivery
 - SDLC Management
 - Requirements Analysis
+- Scope & Priority Management
 - Stakeholder Management
+- Stakeholder & Executive Communication
 - Vendor Management
-- Risk Management
+- Budgeting & Financial Tracking
+- Project Estimation & Cost Planning
+- Resource & Capacity Planning
+- Risk, Issue & Dependency Management (RAID)
 - UAT Planning
-- Release Management
+- Release & Go-Live Management
+- KPI Tracking & Status Reporting
+- Governance & Documentation
+- Change Management
+- Cloud & Technical Project Delivery
+- Project Governance & Delivery Best Practices
 
 ---
 
@@ -95,17 +125,17 @@ I have successfully delivered projects involving enterprise applications, fleet 
 
 # Career Journey
 
-Software Engineer
-↓
-Solution Designer
-↓
-Enterprise Applications
-↓
-Infrastructure Operations
-↓
-Cloud Platforms
-↓
-Technical Project Management
+Software Engineer  
+↓  
+Solution Designer  
+↓  
+Enterprise Applications  
+↓  
+Infrastructure Operations  
+↓  
+Cloud Platforms  
+↓  
+**Technical Project Management**
 
 ---
 
