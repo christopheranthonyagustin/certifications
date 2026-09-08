@@ -172,21 +172,25 @@ Highlights include certifications and credentials in:
 
 ## Enterprise Software Portfolio
 
-My project experience also includes enterprise software delivery across logistics, healthcare, cloud platforms, systems integration, and AI-powered applications.
+Enterprise software projects demonstrating experience across logistics, healthcare, warehouse management, fleet and transport, cloud applications, and AI-powered solutions.
 
-* [Order Management Systems (OMS) and Shipment Tracking & Logistics Integration](https://github.com/christopheranthonyagustin/portfolio/tree/main/Projects/ShopifyLarkTracker)
-* [Healthcare Technology and Medical Software](https://github.com/christopheranthonyagustin/portfolio/blob/main/Projects/VSynC%20App/medsol-software-vsync_web_app-da4e4eceadf3/README.md)
-* [Warehouse Management Systems (WMS)](https://github.com/christopheranthonyagustin/portfolio/tree/main/Projects/AceCom%20System/iLOGON_ACE)
-* [Fleet & Transport Management System](https://github.com/christopheranthonyagustin/portfolio/tree/main/Projects/Track)
-* [Cloud-Based Applications](https://github.com/christopheranthonyagustin/portfolio/tree/main/Projects/System%20Pest)
-* [AI-Powered Career Analysis Platform](https://github.com/christopheranthonyagustin/portfolio/tree/main/Projects/CareerOps/CareerOps.Api)
+| Project | Solution / Experience Highlights |
+|----------|----------------------------------|
+| [Order Management Systems (OMS) and Shipment Tracking & Logistics Integration](https://github.com/christopheranthonyagustin/portfolio/tree/main/Projects/ShopifyLarkTracker) | Shopify order synchronization, shipment tracking, logistics API integration, delivery visibility, operational workflows |
+| [Healthcare Technology and Medical Software](https://github.com/christopheranthonyagustin/portfolio/blob/main/Projects/VSynC%20App/medsol-software-vsync_web_app-da4e4eceadf3/README.md) | Healthcare technology, medical software, mobile applications, cloud backend, regulated software development |
+| [Warehouse Management Systems (WMS)](https://github.com/christopheranthonyagustin/portfolio/tree/main/Projects/AceCom%20System/iLOGON_ACE) | Warehouse operations, inventory management, order processing, enterprise application delivery |
+| [Fleet & Transport Management System](https://github.com/christopheranthonyagustin/portfolio/tree/main/Projects/Track) | Fleet tracking, GPS/telematics, transport operations, dispatch, route and driver management |
+| [Cloud-Based Applications](https://github.com/christopheranthonyagustin/portfolio/tree/main/Projects/System%20Pest) | Cloud application architecture, web applications, backend services, deployment and integration |
+| [AI-Powered Career Analysis Platform](https://github.com/christopheranthonyagustin/portfolio/tree/main/Projects/CareerOps/CareerOps.Api) | AI/LLM integration, job analysis, automation, APIs, Python backend and cloud deployment |
 
 ## Systems Integration Portfolio
 
-Projects involving enterprise, e-commerce, logistics, POS, API, EDI, webhook, and third-party system integrations.
+Integration projects demonstrating experience connecting enterprise, e-commerce, logistics, POS, and external systems through APIs, EDI, webhooks, and file-based interfaces.
 
-* [API and Webhook Integrations](https://github.com/christopheranthonyagustin/portfolio/tree/main/Projects/smartmall-netsclick-main)
-* [EDI & File-Based Integrations](https://github.com/christopheranthonyagustin/portfolio/tree/main/Projects/SalesDataConverterApp%20v.1.7.8)
+| Project | Integration / Technology Highlights |
+|----------|--------------------------------------|
+| [API and Webhook Integrations](https://github.com/christopheranthonyagustin/portfolio/tree/main/Projects/smartmall-netsclick-main) | REST APIs, webhooks, third-party system integration, e-commerce and enterprise system connectivity |
+| [EDI & File-Based Integrations](https://github.com/christopheranthonyagustin/portfolio/tree/main/Projects/SalesDataConverterApp%20v.1.7.8) | EDI processing, file-based data exchange, data transformation and integration automation |
 
 ## Cloud & Infrastructure Portfolio
 
