@@ -119,7 +119,7 @@ The system retrieves Shopify order and fulfillment information and synchronizes 
 
 The synchronization process supports incremental processing to avoid unnecessarily reprocessing the entire order dataset.
 
-!\(Shipment List\)\(docs/images/shipment-list.png\)
+![Shipment List](docs/images/shipment-list.png)
 
 ### Shipment Visibility
 
@@ -127,7 +127,7 @@ The operations interface provides centralized visibility into order and shipment
 
 This allows operations users to search, filter, and monitor shipments from a centralized interface rather than relying on multiple systems.
 
-!\(Operations Center\)\(docs/images/operations-center.png\)
+![Operations Center](docs/images/operations-center.png)
 
 ### Logistics Integration
 
@@ -149,7 +149,7 @@ The system provides shipment lifecycle information to support operational monito
 
 Shipment history can be used to understand the progression of a delivery from fulfillment through subsequent logistics status updates.
 
-!\(Shipment History\)\(docs/images/shipment-history.png\)
+![Shipment History](docs/images/shipment-history.png)
 
 ### Delivery Order Verification
 
@@ -157,7 +157,7 @@ A verification workflow was implemented to compare order and shipment informatio
 
 This helps operations identify discrepancies and validate that delivery-order information corresponds with the underlying order and shipment data.
 
-!\(Delivery Order Verification\)\(docs/images/delivery-order-verification.png\)
+![Delivery Order Verification](docs/images/delivery-order-verification.png)
 
 ### Mass Creation of Delivery Orders
 
@@ -174,11 +174,11 @@ The workflow allows operations users to:
 
 The workflow was initially defined through a UI/UX mockup to establish the operational process before implementation.
 
-!\(Mass Creation of Delivery Orders – Mockup\)\(docs/images/mass-delivery-order-mockup.png\)
+![Mass Creation of Delivery Orders – Mockup](docs/images/mass-delivery-order-mockup.png)
 
 The workflow was subsequently implemented as an operational interface.
 
-!\(Mass Creation of Delivery Orders – Implemented\)\(docs/images/mass-delivery-order.png\)
+![Mass Creation of Delivery Orders – Implemented](docs/images/mass-delivery-order.png)
 
 This demonstrates the progression from:
 
@@ -227,19 +227,19 @@ The dashboard includes:
 * Shipment status information
 * Operational monitoring
 
-!\(KPI Dashboard\)\(docs/images/kpi-dashboard.png\)
+![KPI Dashboard](docs/images/kpi-dashboard.png\)
 
 ### Shipment Trends
 
 Shipment trend reporting provides an overview of shipment activity over time and supports operational monitoring.
 
-!\(Shipment Trends\)\(docs/images/shipment-trends.png\)
+![Shipment Trends](docs/images/shipment-trends.png\)
 
 ### Shipment by Channel
 
 Channel-level reporting provides visibility into shipment distribution across different sales channels.
 
-!\(Shipment by Channel\)\(docs/images/shipment-by-channel.png\)
+![Shipment by Channel](docs/images/shipment-by-channel.png\)
 
 ## Technical Architecture
 
@@ -465,19 +465,19 @@ Workflow → UI/UX
 
 The mass delivery-order workflow was defined through a UI/UX mockup before implementation.
 
-!\(Mass Creation of Delivery Orders – Mockup\)\(docs/images/mass-delivery-order-mockup.png\)
+![Mass Creation of Delivery Orders – Mockup](docs/images/mass-delivery-order-mockup.png\)
 
 UI/UX → Implementation
 
 The defined workflow was subsequently implemented as an operational interface.
 
-!\(Mass Creation of Delivery Orders – Implemented\)\(docs/images/mass-delivery-order.png\)
+![Mass Creation of Delivery Orders – Implemented](docs/images/mass-delivery-order.png\)
 
 Implementation → Operational Validation
 
 The resulting interfaces support actual operational activities including shipment monitoring, verification, delivery-order processing, and reporting.
 
-!\(Operations Center\)\(docs/images/operations-center.png\)
+![Operations Center](docs/images/operations-center.png\)
 
 ## Project Delivery Practices
 
