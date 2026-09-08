@@ -174,7 +174,7 @@ Highlights include certifications and credentials in:
 
 Enterprise software projects demonstrating the application of technical project management, requirements analysis, solution delivery, stakeholder coordination, and hands-on technical execution across logistics, healthcare, warehouse management, fleet and transport, cloud applications, and AI-powered solutions.
 
-| Project | PM / Delivery Skills Demonstrated |
+| **Project** | **PM / Delivery Skills Demonstrated** |
 |----------|-----------------------------------|
 | [Order Management Systems (OMS) and Shipment Tracking & Logistics Integration](https://github.com/christopheranthonyagustin/portfolio/tree/main/Projects/ShopifyLarkTracker) | Requirements analysis, business-to-technical translation, workflow definition, solution design, scope and priority management, technical coordination, API evaluation and testing, operational validation, documentation, and incremental improvement |
 | [Healthcare Technology and Medical Software](https://github.com/christopheranthonyagustin/portfolio/blob/main/Projects/VSynC%20App/medsol-software-vsync_web_app-da4e4eceadf3/README.md) | Technical project management, requirements coordination, cross-functional delivery, risk and quality considerations, software development lifecycle, testing and validation, stakeholder coordination, and regulated software delivery |
@@ -187,7 +187,7 @@ Enterprise software projects demonstrating the application of technical project 
 
 Integration projects demonstrating the application of requirements analysis, solution design, technical coordination, dependency management, testing, and delivery across e-commerce, logistics, POS, and enterprise systems.
 
-| Project | PM / Delivery Skills Demonstrated |
+| **Project** | **PM / Delivery Skills Demonstrated** |
 |----------|-----------------------------------|
 | [API and Webhook Integrations](https://github.com/christopheranthonyagustin/portfolio/tree/main/Projects/smartmall-netsclick-main) | Integration requirements analysis, API evaluation, technical coordination, dependency management, integration testing, troubleshooting, and solution delivery |
 | [EDI & File-Based Integrations](https://github.com/christopheranthonyagustin/portfolio/tree/main/Projects/SalesDataConverterApp%20v.1.7.8) | Requirements analysis, data-flow definition, integration design, technical coordination, validation, troubleshooting, and delivery of file-based integration workflows |
@@ -198,13 +198,13 @@ Cloud and infrastructure projects demonstrating experience in technical delivery
 
 ## Cloud & Infrastructure Portfolio
 
-| Project | Infrastructure Highlights |
+| **Project** | **PM / Delivery Skills Demonstrated** |
 |----------|---------------------------|
-| [Order Management Systems (OMS) and Shipment Tracking & Logistics Integration](Projects/ShopifyLarkTracker/docs/requirements/README.md) | On-Premises to Windows Azure migration, Hyper-V virtualization, SDLC environment management, High Availability (HA), Disaster Recovery (DR), Windows Server, SQL Server |
-| [WLocate – Enterprise Infrastructure & Cloud Foundation](Projects/Infra/WLocate/README.md) | On-Premises to Windows Azure migration, Hyper-V virtualization, SDLC environment management, High Availability (HA), Disaster Recovery (DR), Windows Server, SQL Server |
-| [BUCLocate – Azure Fleet Management Platform](Projects/Infra/BUC/README.md) | Microsoft Azure, Azure Virtual Machines, Azure SQL Database Migration, IIS, Windows Services, GPS/UDP Communication, OTA Device Management |
-| [Comfort Ambulance – Job Dispatch System](Projects/Infra/Comfort/README.md) | Enterprise Solution Deployment, Customer Environment Provisioning, Job Dispatch Workflow, Android MDT Integration, MySQL, Production Deployment, UAT & Go-Live |
-| [AceCom – Enterprise IT Infrastructure Operations & Governance](Projects/Infra/AceCom/README.md) | Active Directory, Windows Server, SQL Server, Disaster Recovery, IT Governance, Vendor Management |
+| [Order Management Systems (OMS) and Shipment Tracking & Logistics Integration](https://github.com/christopheranthonyagustin/portfolio/tree/main/Projects/ShopifyLarkTracker) | Requirements analysis, business-to-technical translation, workflow definition, solution design, scope and priority management, technical coordination, integration architecture, microservices, GitHub-based development workflow, CI/CD, Cloudflare configuration, API integration, testing and operational validation, documentation, and incremental improvement |
+| [WLocate – Enterprise Infrastructure & Cloud Foundation](Projects/Infra/WLocate/README.md) | Infrastructure migration planning, solution planning, SDLC environment management, high-availability planning, disaster recovery planning, implementation coordination, and operational governance |
+| [BUCLocate – Azure Fleet Management Platform](Projects/Infra/BUC/README.md) | Cloud platform delivery, infrastructure planning, system migration coordination, environment management, technical dependency management, integration coordination, and operational support |
+| [Comfort Ambulance – Job Dispatch System](Projects/Infra/Comfort/README.md) | Enterprise solution deployment, customer environment planning, workflow implementation, deployment coordination, UAT management, production readiness, and go-live support |
+| [AceCom – Enterprise IT Infrastructure Operations & Governance](Projects/Infra/AceCom/README.md) | Infrastructure operations planning, disaster recovery planning, IT governance, vendor management, environment coordination, operational continuity, and technical coordination |
 
 ## Shopify Portfolio
 
