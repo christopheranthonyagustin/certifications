@@ -185,12 +185,13 @@ Enterprise software projects demonstrating the application of technical project 
 
 ## Systems Integration Portfolio
 
-Integration projects demonstrating the application of requirements analysis, solution design, technical coordination, dependency management, testing, and delivery across e-commerce, logistics, POS, and enterprise systems.
+Integration projects demonstrating experience in **requirements analysis, solution design, technical coordination, dependency management, vendor coordination, integration testing, troubleshooting, and delivery** across e-commerce, logistics, POS, and enterprise systems.
 
 | **Project** | **PM / Delivery Skills Demonstrated** |
-|----------|-----------------------------------|
-| [API and Webhook Integrations](https://github.com/christopheranthonyagustin/portfolio/tree/main/Projects/smartmall-netsclick-main) | Integration requirements analysis, API evaluation, technical coordination, dependency management, integration testing, troubleshooting, and solution delivery |
-| [EDI & File-Based Integrations](https://github.com/christopheranthonyagustin/portfolio/tree/main/Projects/SalesDataConverterApp%20v.1.7.8) | Requirements analysis, data-flow definition, integration design, technical coordination, validation, troubleshooting, and delivery of file-based integration workflows |
+| --- | --- |
+| [**AceCom OMS / WMS – Microsoft Dynamics NAV Integration**](https://github.com/christopheranthonyagustin/portfolio/tree/main/Projects/AceCom%20System/iLOGON_ACE) | Project management, integration requirements, business-to-technical coordination, WMS–ERP integration planning, vendor/partner coordination, technical dependency management, implementation coordination, testing, deployment, and operational support |
+| [**API and Webhook Integrations**](https://github.com/christopheranthonyagustin/portfolio/tree/main/Projects/smartmall-netsclick-main) | Integration requirements analysis, API evaluation, technical coordination, dependency management, integration testing, troubleshooting, and solution delivery |
+| [**EDI & File-Based Integrations**](https://github.com/christopheranthonyagustin/portfolio/tree/main/Projects/SalesDataConverterApp%20v.1.7.8) | Requirements analysis, data-flow definition, integration design, technical coordination, validation, troubleshooting, and delivery of file-based integration workflows |
 
 ## Cloud & Infrastructure Portfolio
 
