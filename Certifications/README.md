@@ -1,10 +1,10 @@
 # Christopher Anthony Agustin
 
-## Enterprise Technology Portfolio
+## 🎓 Certifications & Professional Credentials
 
-### Project Case Studies, Governance, Quality Systems & Technical Leadership
+### Professional Certifications, Technical Training & Continuing Development
 
-**Technical Program Manager | Enterprise Software Delivery | Governance & Compliance | Quality Management Systems | Enterprise Operations**
+**Technical Project Manager | Enterprise Technology | Project Management | Systems Integration | Quality & Compliance**
 
 ---
 
@@ -26,31 +26,34 @@ Technical Project Management
 
 ## Digital Badge Verification
 
-Credly: [View Digital Badges](https://www.credly.com/users/christopher-anthony-agustin)
+[Credly — View Digital Badges](https://www.credly.com/users/christopher-anthony-agustin)
 
-LinkedIn: [Christopher Anthony Agustin](https://www.linkedin.com/in/christopher-anthony-agustin-35a8084a)
+[LinkedIn — Christopher Anthony Agustin](https://www.linkedin.com/in/christopher-anthony-agustin-35a8084a)
 
-Email: [christopheranthonyagustin@gmail.com](mailto:christopheranthonyagustin@gmail.com)
+[Email — christopheranthonyagustin@gmail.com](mailto:christopheranthonyagustin@gmail.com)
+
+---
 
 ## Certification Summary
 
-Highlights include certifications in:
+My professional development includes certifications, professional credentials, technical training, and continuing education across:
 
-- API Design & Product Management
 - Project Management
+- Product Management
 - Scrum & Agile
-- Quality Management (ISO 9001)
-- Information Security (ISO 27001)
-- IT Service Management (ISO 20000)
-- Lean & Six Sigma
-- Infrastructure
-- Cloud Computing
+- API Design & Product Management
+- Quality Management
+- Information Security
 - IT Service Management
+- Lean & Six Sigma
+- Cloud Computing & Infrastructure
 - Cybersecurity
 - Software Architecture
+- Software Engineering
+- Data & Analytics
 - Healthcare Technology
 
-Total Certifications and Credentials: 25+
+**Total Certifications and Credentials: 25+**
 
 ---
 
@@ -79,9 +82,9 @@ Total Certifications and Credentials: 25+
 ### Coursera (2021-2023)
 
 * [AWS Fundamentals](https://github.com/christopheranthonyagustin/portfolio/blob/main/Certifications/Coursera/AWS%20Fundamentals/Coursera%20-%20AWS%20Fundamentals.pdf)
-* [Google IT Support](https://github.com/christopheranthonyagustin/portfolio/blob/main/Certifications/Coursera/Google%20IT%20Support/Coursera%20-%20Google%20IT%20Support.pdf)
-* [Google IT Automation with Python](https://github.com/christopheranthonyagustin/portfolio/blob/main/Certifications/Coursera/Google%20IT%20Automation%20with%20Python/Coursera%20-%20Google%20IT%20Automation%20with%20Python.pdf)
-* [Google Project Management](https://github.com/christopheranthonyagustin/portfolio/blob/main/Certifications/Coursera/Google%20Project%20Management/Coursera%20-%20Google%20Project%20Management.pdf)
+* [Google IT Support](https://github.com/christopheranthonyagustin/portfolio/blob/main/Certifications/Coursera/Google%20IT%20Support/Google%20IT%20Support.pdf)
+* [Google IT Automation with Python](https://github.com/christopheranthonyagustin/portfolio/blob/main/Certifications/Coursera/Google%20IT%20Automation%20with%20Python/Google%20IT%20Automation%20with%20Python.pdf)
+* [Google Project Management](https://github.com/christopheranthonyagustin/portfolio/blob/main/Certifications/Coursera/Google%20Project%20Management/Google%20Project%20Management.pdf)
 
 ### Google (2021)
 
@@ -134,9 +137,13 @@ Total Certifications and Credentials: 25+
 
 * [Generative AI Overview for Project Managers](https://github.com/christopheranthonyagustin/portfolio/blob/main/Certifications/PMI/Generative%20AI%20Overview%20for%20Project%20Managers.pdf)
 
+---
+
 ## Continuous Professional Development
 
-These certifications reflect ongoing professional development across project management, systems integration, software engineering, cybersecurity, cloud technologies, and healthcare technology.
+These credentials reflect continuing professional development across **project management, product management, systems integration, software engineering, cloud and infrastructure, cybersecurity, data and analytics, and healthcare technology**.
+
+---
 
 ## Certificate Verification
 
