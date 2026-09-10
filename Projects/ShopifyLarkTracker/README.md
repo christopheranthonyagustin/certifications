@@ -4,11 +4,11 @@
 
 This project is a logistics and shipment tracking module developed as part of an Order Management System (OMS) ecosystem.
 
-The module integrates Shopify, logistics providers, and operational dashboards to provide centralized visibility of order fulfillment, shipment tracking, exception management, and delivery status monitoring.
+The module integrates Shopify, logistics providers, and operational dashboards to provide centralized visibility of order fulfillment, shipment tracking, exception management, delivery status monitoring, shipment history, and operational reporting.
 
-The solution automates the synchronization of order and fulfillment information from e-commerce channels into a centralized operations platform, eliminating manual tracking activities and improving operational efficiency.
+The solution automates the synchronization of order and fulfillment information from e-commerce channels into a centralized operations platform, reducing manual tracking activities and improving operational visibility.
 
----
+The project evolved from order synchronization and shipment visibility into a broader operational solution supporting shipment tracking, delivery verification, delivery-order management, operational monitoring, and logistics integration.
 
 ## Business Context
 
@@ -19,110 +19,227 @@ As part of the OMS platform, operations teams required a mechanism to:
 * Identify orders without tracking numbers
 * Centralize logistics visibility
 * Support customer service inquiries
+* Monitor delivery status and shipment history
+* Verify order and shipment information
 * Reduce manual reconciliation between systems
+* Support operational reporting and monitoring
 
-The solution was designed to provide near real-time shipment visibility while supporting future integration with logistics partners such as SPX Express.
+The solution was designed around the existing e-commerce order workflow and progressively extended to support logistics operations and shipment visibility.
 
----
+## Project Objectives
+
+The project objectives included:
+
+* Synchronize Shopify order and fulfillment information
+* Provide centralized shipment visibility
+* Integrate logistics shipment and delivery information
+* Support operational order and shipment workflows
+* Provide shipment history and delivery lifecycle information
+* Enable order and shipment verification
+* Support mass creation of delivery orders
+* Provide operational KPIs and shipment reporting
+* Improve synchronization and processing performance
+* Establish a foundation for additional logistics integrations and future automation
+
+## Solution Approach
+
+The solution was developed incrementally based on operational requirements, existing system constraints, and technical feasibility.
+
+The implementation involved:
+
+* Understanding operational requirements and existing workflows
+* Translating business requirements into technical requirements
+* Defining system workflows and data flows
+* Designing the integration architecture
+* Developing backend services and operational interfaces
+* Integrating Shopify and logistics APIs
+* Testing actual API responses and business scenarios
+* Validating operational workflows
+* Optimizing data synchronization and processing
+* Documenting requirements and technical decisions
+* Identifying future improvements and integration opportunities
+
+The approach was adapted as operational priorities and technical requirements evolved.
 
 ## OMS Architecture
 
 ```text
 Sales Channels
 (Shopify, Marketplaces, POS)
-            ↓
+↓
 Order Management System (OMS)
-            ↓
-Shipment Tracking Module
-            ↓
+↓
+Shipment Tracking & Logistics Integration
+↓
 Logistics Providers
 (SPX, J&T, Others)
-            ↓
-Operations Dashboard (Lark Base)
+↓
+Operations Dashboard
 ```
-
----
 
 ## Current Integration Flow
 
 ```text
 Shopify
-    ↓
-Fulfillment Data
-    ↓
+↓
+Order & Fulfillment Data
+↓
 .NET Integration Service
-    ↓
-Business Rules Engine
-    ↓
-Lark Base Dashboard
+↓
+Shipment Processing
+↓
+Logistics Integration
+↓
+Operations Dashboard
 ```
 
-### Data Synchronized
+The integration layer provides a bridge between e-commerce order data and downstream logistics operations.
+
+## Data Synchronized
+
+The solution processes operational information including:
 
 * Shopify Order ID
 * Order Number
 * Customer Name
 * Sales Channel
-* Tracking Number (AWB)
+* Tracking Number / AWB
 * Fulfillment Date
 * Shipment Status
 * Courier Information
 * Exception Indicators
-
----
+* Logistics shipment information
+* Delivery status and shipment history
 
 ## Key OMS Capabilities
 
 ### Order Synchronization
 
-Retrieves order information from Shopify and synchronizes:
+The system retrieves Shopify order and fulfillment information and synchronizes relevant data into the centralized operations platform.
 
-* Order metadata
-* Customer details
-* Fulfillment status
-* Shipment information
+The synchronization process supports incremental processing to avoid unnecessarily reprocessing the entire order dataset.
+
+![Shipment List](docs/images/shipment-list.png)
 
 ### Shipment Visibility
 
-Captures:
+The operations interface provides centralized visibility into order and shipment information, including tracking numbers, courier information, shipment status, and operational indicators.
 
-* Tracking numbers
-* Courier assignment
-* Fulfillment dates
-* Shipment lifecycle information
+This allows operations users to search, filter, and monitor shipments from a centralized interface rather than relying on multiple systems.
+
+![Operations Center](docs/images/operations-center.png)
 
 ### Logistics Integration
 
-Supports logistics identification based on tracking number patterns:
+The logistics integration layer communicates with external courier services to retrieve shipment and delivery information.
 
-| Prefix | Courier     |
-| ------ | ----------- |
-| SPX    | SPX Express |
-| SP     | SPX Express |
-| JT     | J&T Express |
-| Others | Unknown     |
+Courier determination can be supported through tracking-number prefixes and configured logistics rules.
+
+The architecture was designed to support multiple logistics providers rather than coupling the OMS to a single courier.
+
+Supported and investigated logistics integrations include:
+
+* SPX
+* J&T
+* Other logistics providers based on integration requirements
+
+### Shipment History
+
+The system provides shipment lifecycle information to support operational monitoring and customer-service inquiries.
+
+Shipment history can be used to understand the progression of a delivery from fulfillment through subsequent logistics status updates.
+
+![Shipment History](docs/images/shipment-history.png)
+
+### Delivery Order Verification
+
+A verification workflow was implemented to compare order and shipment information across the e-commerce and logistics sides of the process.
+
+This helps operations identify discrepancies and validate that delivery-order information corresponds with the underlying order and shipment data.
+
+![Delivery Order Verification](docs/images/delivery-order-verification.png)
+
+### Mass Creation of Delivery Orders
+
+A mass delivery-order workflow was designed to support operational processing of multiple Shopify orders.
+
+The workflow allows operations users to:
+
+* Select multiple orders
+* Create delivery orders in bulk
+* Split orders where required
+* Allocate quantities
+* Define shipment information
+* Review the delivery orders before confirmation
+
+The workflow was initially defined through a UI/UX mockup to establish the operational process before implementation.
+
+![Mass Creation of Delivery Orders – Mockup](docs/images/mass-delivery-order-mockup.png)
+
+The workflow was subsequently implemented as an operational interface.
+
+![Mass Creation of Delivery Orders – Implemented](docs/images/mass-delivery-order.png)
+
+This demonstrates the progression from:
+
+```text
+Operational Requirement
+↓
+Workflow Definition
+↓
+UI/UX Mockup
+↓
+Technical Implementation
+↓
+Operational Validation
+```
 
 ### Exception Management
 
-Business rules automatically identify:
+The solution supports identification of operational exceptions such as:
 
-* Missing AWBs
-* Unfulfilled orders
-* Unknown couriers
-* Shipment anomalies
+* Orders without tracking numbers
+* Shipment information inconsistencies
+* Delivery-status exceptions
+* Missing or incomplete logistics information
 
-Exception records are highlighted for operational follow-up.
+The objective is to provide operational visibility so that issues can be investigated and resolved rather than remaining hidden within individual systems.
 
 ### Multi-Channel Order Support
 
-Supports orders originating from:
+The OMS architecture considers multiple sales channels, including:
 
-* Shopify Online Store
-* Point of Sale (POS)
+* Shopify
 * Marketplaces
-* Future e-commerce channels
+* POS
 
----
+This allows shipment and order processing capabilities to evolve beyond a single e-commerce source.
+
+## Operational Dashboard
+
+The operational interface provides visibility into shipment activity and key operational indicators.
+
+The dashboard includes:
+
+* Shipment KPIs
+* Shipment trends
+* Channel-level reporting
+* Shipment status information
+* Operational monitoring
+
+![KPI Dashboard](docs/images/kpi-dashboard.png\)
+
+### Shipment Trends
+
+Shipment trend reporting provides an overview of shipment activity over time and supports operational monitoring.
+
+![Shipment Trends](docs/images/shipment-trends.png\)
+
+### Shipment by Channel
+
+Channel-level reporting provides visibility into shipment distribution across different sales channels.
+
+![Shipment by Channel](docs/images/shipment-by-channel.png\)
 
 ## Technical Architecture
 
@@ -135,6 +252,7 @@ Responsible for:
 * Order retrieval
 * Fulfillment synchronization
 * Incremental updates
+* Shopify API communication
 
 #### Shipment Processing Engine
 
@@ -144,162 +262,390 @@ Responsible for:
 * Business rule execution
 * Exception handling
 * Courier determination
+* Shipment processing
+* Operational data preparation
 
-#### Lark Integration Layer
+#### Logistics Integration Layer
 
 Responsible for:
 
-* Dashboard updates
-* Record creation
-* Record synchronization
+* Logistics API communication
+* Shipment information retrieval
+* Delivery status retrieval
+* Shipment history processing
+* Logistics data mapping
 
----
+#### Dashboard / Operations Layer
+
+Responsible for:
+
+* Order and shipment visibility
+* Operational actions
+* Shipment search
+* KPIs and reporting
+* Verification workflows
 
 ## Performance Optimization
 
-Several optimization initiatives were implemented:
+Several optimization initiatives were implemented to improve synchronization and processing performance.
 
 ### Incremental Synchronization
 
-Uses:
+The synchronization process uses Shopify's update filtering capabilities to process orders that have changed rather than repeatedly processing the complete dataset.
 
 ```text
 updated_at_min
 ```
 
-to retrieve only changed orders.
+This reduces unnecessary API calls and processing when only a subset of orders requires synchronization.
 
-### Record Indexing
+### Dictionary-Based Lookup
 
-Introduced dictionary-based lookups to eliminate linear searches.
+Dictionary-based lookups were introduced where appropriate to avoid repeated linear searches when matching records.
+
+```text
+Linear Search
+↓
+Dictionary Lookup
+```
+
+This improves lookup efficiency when processing larger collections of records.
 
 ### Parallel Processing
 
-Implemented concurrent processing using:
+Independent shipment-processing operations can be processed concurrently using controlled asynchronous execution.
 
 ```text
-SemaphoreSlim
+Sequential Processing
+↓
+Controlled Parallel Processing
 ```
 
-to significantly reduce synchronization time.
+`SemaphoreSlim` is used to control concurrency and avoid uncontrolled parallel API activity.
 
 ### API Call Optimization
 
-Removed duplicate Lark API retrievals and consolidated synchronization workflows.
+The integration was optimized to reduce unnecessary API calls and avoid repeatedly retrieving information that had already been processed.
 
-### Results
+The overall optimization approach focused on:
 
-| Metric           | Before          | After             |
-| ---------------- | --------------- | ----------------- |
-| Full Sync        | Several Minutes | Seconds           |
-| Incremental Sync | N/A             | ~2 Seconds        |
-| Record Matching  | Linear Search   | Dictionary Lookup |
-| Processing       | Sequential      | Parallel          |
+* Reducing unnecessary data retrieval
+* Processing only changed records
+* Improving lookup performance
+* Controlling concurrency
+* Minimizing repeated API operations
 
----
+## Project Delivery
+
+The project evolved incrementally as operational requirements and integration needs became clearer.
+
+The delivery approach included:
+
+### Requirements
+
+Operational requirements were identified from existing fulfillment, shipment tracking, reconciliation, and delivery workflows.
+
+### Solution Definition
+
+Requirements were translated into:
+
+* System workflows
+* Data flows
+* Integration requirements
+* Business rules
+* Operational interfaces
+
+### Development
+
+The solution was implemented using a combination of:
+
+* Backend integration services
+* API integrations
+* Shipment processing logic
+* Operational interfaces
+* Dashboard/reporting capabilities
+
+### Testing
+
+Testing included:
+
+* API testing
+* Integration testing
+* Business-rule validation
+* Shipment-status validation
+* Operational workflow testing
+* Performance testing and optimization
+
+### Validation
+
+The implemented workflows were reviewed against operational requirements and actual system/API behavior.
+
+### Improvement
+
+Following implementation and testing, the solution was extended with additional operational capabilities and optimization initiatives.
+
+## Requirements & Solution Documentation
+
+The project was supported by requirements analysis and technical solution documentation covering:
+
+* Business requirements
+* Functional requirements
+* Integration requirements
+* Workflow definitions
+* Data requirements
+* API behavior
+* Operational scenarios
+* Testing considerations
+* Future enhancement requirements
+
+Software Requirements Specification
+
+The OMS Software Requirements Specification serves as the primary requirements reference for the solution.
+
+\(View the OMS Software Requirements Specification\)\(docs/requirements/OMS-Software-Requirements-Specification.md\)
+
+The SRS documents the requirements and expected behavior that were used to guide the solution design and implementation.
+
+Supporting Documentation
+
+[Requirements & Workflow Documentation](docs/requirements/srs.pdf)
+
+Documentation was used to translate operational needs into implementable technical requirements and to provide a reference for subsequent development and enhancements.
+
+## Project Artifacts
+
+The repository can contain supporting project evidence and implementation artifacts such as:
+
+```text
+ShopifyLarkTracker/
+│
+├── README.md
+│
+├── docs/
+│ ├── images/
+│ │ ├── operations-center.png
+│ │ ├── shipment-list.png
+│ │ ├── shipment-history.png
+│ │ ├── delivery-order-verification.png
+│ │ ├── mass-delivery-order-mockup.png
+│ │ ├── mass-delivery-order.png
+│ │ ├── kpi-dashboard.png
+│ │ ├── shipment-trends.png
+│ │ └── shipment-by-channel.png
+│ │
+│ ├── requirements/
+│ │ ├── srs.pdf
+│ │
+│ └── testing/
+│ └── README.md
+│
+├── src/
+│ └── ...
+│
+└── ...
+```
+
+Additional requirements, design, testing, and technical documentation can be maintained alongside the implementation where appropriate.
+
+## Project Evidence
+
+The project demonstrates the progression from operational requirements to implemented functionality.
+
+Requirements → Workflow
+
+Operational requirements were translated into concrete order and shipment workflows.
+
+Workflow → UI/UX
+
+### UI/UX → Implementation
+
+The defined workflow was subsequently implemented as an operational interface.
+
+![Mass Creation of Delivery Orders – Mockup](docs/images/mass-delivery-order-mockup.png)
+
+![Mass Creation of Delivery Orders – Implemented](docs/images/mass-delivery-order.png)
+
+### Implementation → Operational Validation
+
+The resulting interfaces support actual operational activities including shipment monitoring, verification, delivery-order processing, and reporting.
+
+![Operations Center](docs/images/operations-center.png)
+
+## Project Delivery Practices
+
+Although the implementation is technically focused, the project demonstrates practical technology-delivery practices including:
+
+* Requirements analysis
+* Business-to-technical translation
+* Scope and priority management
+* Workflow definition
+* Solution architecture
+* Integration planning
+* API evaluation and testing
+* Technical dependency management
+* Incremental development
+* Testing and validation
+* Performance optimization
+* Documentation
+* Operational feedback and improvement
+
+The project demonstrates the ability to work across both business and technical concerns rather than treating software development as an isolated coding activity.
 
 ## Future Roadmap
 
-### Google Cloud Migration
+Potential future improvements include:
 
-Current:
+* Migration from the current .NET console-based execution model to cloud-based execution
+* Scheduled background synchronization
+* Event-driven processing
+* Additional logistics-provider integrations
+* Expanded exception monitoring
+* Automated operational notifications
+* Improved analytics and reporting
+* Further workflow automation
+* Centralized configuration and secret management
+
+A potential cloud architecture could evolve toward:
 
 ```text
 Shopify
-    ↓
-.NET Console Application
-    ↓
-Lark Base
+↓
+Event / Scheduled Trigger
+↓
+Cloud-Based Integration Service
+↓
+Shipment Processing
+↓
+Logistics APIs
+↓
+Centralized Operations Platform
 ```
 
-Future:
-
-```text
-Shopify
-    ↓
-Google Cloud Function
-    ↓
-Lark Base
-```
-
-Benefits:
-
-* Serverless deployment
-* Lower infrastructure costs
-* Improved scalability
-* Automated scheduling
-
-### SPX Express Integration
-
-Planned integration with SPX APIs to support:
-
-* Real-time shipment tracking
-* Delivery status monitoring
-* Proof of Delivery (POD)
-* Delivery timestamps
-* Failed delivery reasons
-* Shipment exception updates
-
-### Event-Driven Architecture
-
-Future state:
-
-```text
-Shopify Webhook
-       ↓
-Cloud Function
-       ↓
-OMS
-       ↓
-Lark Dashboard
-```
-
----
+The architecture can therefore evolve from the current implementation toward a more automated and scalable integration model without requiring the operational workflow to be redesigned from scratch.
 
 ## Technologies
 
-### Backend
+### Backend & Development
 
 * C#
 * .NET
 * REST APIs
-* JSON Processing
+* JSON
+* Asynchronous Processing
 
-### Integrations
+### E-Commerce
 
 * Shopify Admin API
+
+### Logistics
+
+* SPX API
+* Logistics Provider APIs
+* Shipment Tracking APIs
+
+### Operations Platform
+
 * Lark Open Platform API
+* Lark Base
 
-### Cloud
+### Cloud & Infrastructure
 
-* Google Cloud Functions (Planned)
-* Google Cloud Scheduler (Planned)
-* Secret Manager (Planned)
+* Google Cloud Platform
+* Cloud Functions
+* Cloud Scheduler
+* Secret Management
 
-### Tools
+### Development Tools
 
 * Visual Studio
 * Git
 * GitHub
 
----
+## Skills Demonstrated
 
-## Project Management Contributions
+### Project & Delivery
 
-As Technical Project Manager and Product Owner, responsibilities included:
+* Requirements Analysis
+* Business-to-Technical Translation
+* Scope & Priority Management
+* Workflow Design
+* Technical Project Delivery
+* Stakeholder Communication
+* Integration Planning
+* Risk & Dependency Awareness
+* Testing & Validation
+* Operational Improvement
+* Technical Documentation
 
-* Requirements gathering
-* OMS workflow design
-* Integration architecture planning
-* API evaluation and vendor coordination
-* Logistics process mapping
-* Data model design
-* Performance optimization planning
-* Risk and dependency management
-* Cloud migration roadmap development
+### Technical
 
----
+* .NET Development
+* REST API Integration
+* Shopify Integration
+* Logistics API Integration
+* Data Transformation
+* Business Rule Implementation
+* Asynchronous Processing
+* Performance Optimization
+* Cloud Architecture
+* Systems Integration
+
+### Operations
+
+* Order Management
+* Shipment Tracking
+* Fulfillment Monitoring
+* Delivery Verification
+* Exception Management
+* Operational Reporting
+* Multi-Channel E-Commerce Operations
 
 ## Business Outcome
 
-The Shipment Tracking Module enhanced the OMS platform by providing centralized logistics visibility, automated shipment synchronization, and exception monitoring, creating a scalable foundation for future logistics integrations and real-time delivery tracking.
+The solution provides a centralized operational view across the e-commerce order and logistics lifecycle.
+
+By integrating order, fulfillment, shipment, and delivery information, the solution helps operations teams:
+
+* Reduce manual tracking activities
+* Improve shipment visibility
+* Identify missing or inconsistent shipment information
+* Investigate delivery exceptions
+* Verify delivery-order information
+* Monitor operational performance
+* Support customer-service inquiries
+* Establish a foundation for further logistics automation
+
+The project demonstrates how an existing order-management workflow can progressively evolve into an integrated e-commerce-to-logistics operational solution.
+
+## Repository Structure
+
+```text
+ShopifyLarkTracker/
+│
+├── README.md
+│
+├── docs/
+│ ├── images/
+│ │ ├── operations-center.png
+│ │ ├── shipment-list.png
+│ │ ├── shipment-history.png
+│ │ ├── delivery-order-verification.png
+│ │ ├── mass-delivery-order-mockup.png
+│ │ ├── mass-delivery-order.png
+│ │ ├── kpi-dashboard.png
+│ │ ├── shipment-trends.png
+│ │ └── shipment-by-channel.png
+│ │
+│ ├── requirements/
+│ │ ├── OMS-Software-Requirements-Specification.md
+│ │ ├── README.md
+│ │ └── integration.md
+│ │
+│ └── testing/
+│ └── README.md
+│
+├── src/
+│ └── ...
+│
+└── ...
+```
