@@ -1,3 +1,5 @@
+# <!-- CI/CD deployment test -->
+
 # Christopher Anthony Agustin — Technical PM Portfolio
 
 React + Vite portfolio redesigned around an editorial, motion-first portfolio experience.
@@ -8,15 +10,15 @@ The visual/interaction reference is the clean, typography-led feel of Rob Ford's
 
 The site uses:
 
-- Large animated hero typography
-- Scroll-triggered section reveals
-- Alternating project presentation
-- Hover transitions
-- CSS-generated project visuals
-- Smooth scrolling
-- Responsive layout
-- SDLC and regulated-delivery terminology
-- No backend or CMS
+* Large animated hero typography
+* Scroll-triggered section reveals
+* Alternating project presentation
+* Hover transitions
+* CSS-generated project visuals
+* Smooth scrolling
+* Responsive layout
+* SDLC and regulated-delivery terminology
+* No backend or CMS
 
 ## Run locally
 
@@ -33,6 +35,7 @@ npm run build
 
 ## Before launch
 
-Replace `YOUR_EMAIL_HERE` in `src/main.jsx` with the actual professional email address.
+Replace `YOUR\_EMAIL\_HERE` in `src/main.jsx` with the actual professional email address.
 
 The public-facing project names are intentionally generic/sanitized.
+
