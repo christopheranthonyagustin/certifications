@@ -1,0 +1,42 @@
+name: Deploy Portfolio to Cloudflare Pages
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'Projects/christopher-tpm-portfolio/**'
+      - '.github/workflows/deploy-portfolio.yml'
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    defaults:
+      run:
+        working-directory: Projects/christopher-tpm-portfolio
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: Projects/christopher-tpm-portfolio/package-lock.json
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build portfolio
+        run: npm run build
+
+      - name: Deploy to Cloudflare Pages
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy dist --project-name=christopher-tpm-portfolio
+          workingDirectory: Projects/christopher-tpm-portfolio
