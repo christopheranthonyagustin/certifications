@@ -1,327 +1,451 @@
 # Christopher Anthony Agustin
 
-## Enterprise Technology Portfolio
+## Technical Project Portfolio
 
-### Project Case Studies, Governance, Quality Systems & Technical Leadership
+### Enterprise Applications • Systems Integration • Cloud & Infrastructure • Healthcare Technology • E-Commerce
 
-**Technical Program Manager | Enterprise Software Delivery | Governance & Compliance | Quality Management Systems | Enterprise Operations**
+**Technical Project Manager | Enterprise Technology Delivery | Business Analysis | Technical Leadership**
 
 ---
 
 ## Professional Summary
 
-Technical Program Manager with 15+ years of experience leading enterprise software delivery, governance initiatives, quality management systems, regulatory coordination, infrastructure operations, and cross-functional technology programs across healthcare, logistics, e-commerce, transportation, and manufacturing industries.
+Technical Project Manager with **15+ years of technology experience**, with a career that evolved from software engineering into enterprise technology delivery and project management.
 
-My career has evolved from software engineering into enterprise technology leadership, where I combine deep technical expertise with program management, operational governance, quality systems implementation, vendor and supplier management, budgeting, risk management, and organizational execution.
+I combine **project leadership, business analysis, technical understanding, and hands-on delivery experience** across healthcare, logistics, e-commerce, transportation, warehouse management, manufacturing, and enterprise IT.
 
-I have led initiatives involving enterprise applications, healthcare platforms, fleet and warehouse management systems, cloud-native applications, Shopify commerce solutions, systems integration, and government-funded technology programs. My experience includes ISO 13485 quality management initiatives, internal audit participation, CAPA coordination, supplier evaluation and approval, regulatory stakeholder management, and executive-level cross-functional coordination across engineering, compliance, operations, finance, and leadership teams.
+My experience includes:
 
-I specialize in building delivery systems that organizations can operate, audit, scale, and continuously improve.
+- Project and delivery management
+- Requirements and scope management
+- Business analysis and process improvement
+- Stakeholder and vendor coordination
+- Risk, issue, dependency, and change management
+- Estimation, resource planning, and delivery governance
+- UAT, release, deployment, and go-live coordination
+- Enterprise applications and systems integration
+- Cloud and infrastructure operations
+- Software, IoT, and connected-system delivery
+- Business intelligence and operational analytics
+- Quality and compliance support in regulated environments
+- AI-assisted analysis, documentation, and workflow design
 
----
-
-## Management Highlights
-
-Enterprise governance and program management responsibilities demonstrated across healthcare, logistics, and technology environments.
-
-- **Project Leader for a government-funded healthcare technology initiative**, contributing to program budgeting, resource planning, and delivery governance.  
-  [Portfolio / Project Management](Portfolio/Project%20Management%20Enterprise%20Healthcare%20Program%20Delivery)
-
-- **Participated in ISO 13485 quality management implementation**, including quality objectives, process standardization, and management review activities.  
-  [Portfolio / Project Management](Portfolio/Project%20Management%20Enterprise%20Healthcare%20Program%20Delivery)
-
-- **Supported internal audits and CAPA (Corrective & Preventive Actions)** across cross-functional engineering and operations teams.  
-  [Portfolio / Project Management](Portfolio/Project%20Management%20Enterprise%20Healthcare%20Program%20Delivery)
-
-- **Evaluated and approved manufacturing suppliers** under an ISO 13485 quality management framework.  
-  [Portfolio / Project Management](Portfolio/Project%20Management%20Enterprise%20Healthcare%20Program%20Delivery)
-
-- **Coordinated regulatory and stakeholder activities** involving FDA and NTC compliance requirements.  
-  [Portfolio / Project Management](Portfolio/Project%20Management%20Enterprise%20Healthcare%20Program%20Delivery)
-
-- **Contributed to budget planning, resource allocation, and operational governance** for enterprise technology programs.  
-  [Portfolio / Project Management](Portfolio/Project%20Management%20Enterprise%20Healthcare%20Program%20Delivery)
-
-- **Authored operational procedures and governance documentation** adopted across engineering and operations teams.  
-  [Portfolio / Project Management](Portfolio/Project%20Management%20Enterprise%20Healthcare%20Program%20Delivery)
-
-- **Managed production operations, incident reporting, and root cause analysis** in enterprise environments.  
-  [Portfolio / Project Management](Portfolio/Project%20Management%20Enterprise%20Healthcare%20Program%20Delivery)
+My engineering background allows me to understand the technical work behind a project while keeping focus on **business objectives, delivery, stakeholders, risks, and outcomes**.
 
 ---
 
-## Core Competencies
+## How I Deliver Technology Projects
 
-### Technical Program & Project Leadership
+```text
+Business Need
+      ↓
+Requirements & Scope
+      ↓
+Planning & Solution Definition
+      ↓
+Development / Implementation
+      ↓
+Integration & Verification
+      ↓
+UAT & Release Readiness
+      ↓
+Go-Live
+      ↓
+Operational Support & Improvement
+```
 
-- Technical Program Management
-- Technical Project Management
-- Enterprise Software Delivery
-- Agile & Scrum Delivery
-- SDLC Management
-- Requirements Analysis
-- Stakeholder & Executive Management
-- Cross-Functional Leadership
-- Budget Planning & Resource Allocation
-- Risk Management
-- Release & Deployment Governance
-- Program Governance & Operational Oversight
-
-### Governance, Quality & Compliance
-
-- ISO 13485 Quality Management Systems
-- Quality Objectives Implementation
-- Internal Audit Participation
-- CAPA (Corrective & Preventive Actions)
-- Risk Management (ISO 31000)
-- Supplier Evaluation & Qualification
-- Regulatory Coordination (FDA / NTC)
-- Document Control & QMS Governance
-- Management Review Coordination
-- Process Standardization
-- Operational Procedures & SOP Development
-- Compliance Monitoring & Continuous Improvement
-
-### Enterprise Applications
-
-- Order Management System (OMS)
-- Warehouse Management System (WMS)
-- Fleet Management System
-- Job Dispatch System
-- Healthcare Information Systems
-- Microsoft Dynamics NAV
-- Shopify
-- Enterprise Desktop Applications
-
----
-
-## Infrastructure & Cloud
-
-- Google Cloud Platform
-- Firebase
-- Cloud SQL
-- Windows Server
-- Active Directory
-- IIS Administration
-- SQL Server
-- Infrastructure Operations
-- Disaster Recovery
-- Business Continuity
-- Infrastructure Documentation
-- IT Governance
-
----
-
-## Systems Integration
-
-- REST APIs
-- Webhooks
-- EDI
-- File-based Integration
-- Third-party APIs
-- Shopify Integration
-- Lark Base
-- MQTT
-- JSON
-- XML
-
----
-
-## Software Engineering
-
-- ASP.NET
-- .NET Framework
-- .NET Core
-- C#
-- Flutter
-- Android
-- SQL Server
-- MySQL
-- Python
-
----
-
-# Career Journey
-
-Software Engineer
-↓
-Solution Designer
-↓
-Enterprise Applications
-↓
-Infrastructure Operations
-↓
-Cloud Platforms
-↓
-Technical Project Management
-
----
-
-## Digital Badge Verification
-
-Credly: [View Digital Badges](https://www.credly.com/users/christopher-anthony-agustin)
-
-LinkedIn: [Christopher Anthony Agustin](https://www.linkedin.com/in/christopher-anthony-agustin-35a8084a)
-
-Email: [christopheranthonyagustin@gmail.com](mailto:christopheranthonyagustin@gmail.com)
-
-## Certification Summary
-
-Highlights include certifications in:
-
-- API Design & Product Management
-- Project Management
-- Scrum & Agile
-- Quality Management (ISO 9001)
-- Information Security (ISO 27001)
-- IT Service Management (ISO 20000)
-- Lean & Six Sigma
-- Infrastructure
-- Cloud Computing
-- IT Service Management
-- Cybersecurity
-- Software Architecture
-- Healthcare Technology
-
-Total Certifications and Credentials: 25+
+I work across the boundary between **business stakeholders and technical teams**, helping translate what the business needs into requirements, plans, technical decisions, coordinated execution, and validated delivery.
 
 ---
 
 # Project Portfolio
 
-## Shopify Portfolio
+The projects below demonstrate different dimensions of my technology delivery experience. Some are detailed case studies, while others provide technical and implementation evidence.
 
-I have delivered Shopify solutions for businesses in the consumer electronics, home appliances, and health & wellness industries, covering store development, theme customization, technical consulting, and systems integration.
+## 1. Enterprise Supply Chain Platform
 
-## Hire Me
+**Role:** Technical Project Manager / Product Owner  
+**Delivery:** Agile / Scrum  
+**Environment:** Cloud  
+**Domains:** E-Commerce • OMS • WMS • ERP • 3PL • Systems Integration
 
-If you're looking for Shopify development or technical consulting services, you can hire me on Fiverr:
+An enterprise order and supply-chain platform connecting multiple commerce channels with centralized order management, warehouse operations, ERP, and third-party logistics.
 
-**Fiverr Profile:**  
-https://www.fiverr.com/s/DBDxrKD
+```text
+Marketplaces
+(Shopee • Lazada • Shopify • TikTok Shop)
+                ↓
+       OMS / Middleware
+                ↓
+              WMS
+                ↓
+              ERP
+                ↓
+              3PL
+```
 
-### Featured Projects
+### Delivery Responsibilities
 
-| Project | Industry | Country |
-|----------|----------|---------|
-| [Roborock Singapore](Projects/Shopify/Roborock%20Singapore/README.md) | Consumer Electronics | Singapore | IT Specialist |
-| [W Network Singapore](Projects/Shopify/W%20Network%20Singapore/README.md) | Retail & Distribution | Singapore | IT Specialist |
-| [Laifen Singapore](Projects/Shopify/Laifen%20Singapore/README.md) | Consumer Electronics | Singapore | IT Specialist |
-| [Robam Singapore](Projects/Shopify/Robam%20Singapore/README.md) | Kitchen Appliances | Singapore | Technical Consultant |
-| [Elisir](Projects/Shopify/Elisir/README.md) | Health & Wellness | Singapore | IT Project Manager |
+- Product and project planning
+- Requirements and scope management
+- OMS roadmap and business requirements
+- Stakeholder and vendor coordination
+- Integration planning and dependency management
+- Risk and issue management
+- Resource and delivery planning
+- UAT and release coordination
+- Operational support and continuous improvement
 
-## Cloud & Infrastructure Portfolio
+### Technical Scope
 
-My experience includes enterprise IT infrastructure operations, cloud platform delivery, disaster recovery planning, infrastructure governance, and vendor management across logistics and healthcare environments.
+- REST APIs
+- SOAP
+- Webhooks
+- EDI
+- File-based integrations
+- SQL Server / MySQL
+- SFTP / Amazon S3
+- Microsoft Dynamics NAV integration
+- Marketplace integrations
 
-## Cloud & Infrastructure Portfolio
+[View OMS / WMS Project Evidence](Projects/AceCom%20System/iLOGON_ACE)
 
-| Project | Infrastructure Highlights |
-|----------|---------------------------|
-| [WLocate – Enterprise Infrastructure & Cloud Foundation](Projects/Infra/WLocate/README.md) | On-Premises to Windows Azure migration, Hyper-V virtualization, SDLC environment management, High Availability (HA), Disaster Recovery (DR), Windows Server, SQL Server |
-| [BUCLocate – Azure Fleet Management Platform](Projects/Infra/BUC/README.md) | Microsoft Azure, Azure Virtual Machines, Azure SQL Database Migration, IIS, Windows Services, GPS/UDP Communication, OTA Device Management |
-| [Comfort Ambulance – Job Dispatch System](Projects/Infra/Comfort/README.md) | Enterprise Solution Deployment, Customer Environment Provisioning, Job Dispatch Workflow, Android MDT Integration, MySQL, Production Deployment, UAT & Go-Live |
-| [AceCom – Enterprise IT Infrastructure Operations & Governance](Projects/Infra/AceCom/README.md) | Active Directory, Windows Server, SQL Server, Disaster Recovery, IT Governance, Vendor Management |
+---
 
-## Enterprise Software Portfolio
+## 2. Medical Early Warning & Patient Monitoring Platform
 
-My project experience also includes enterprise software delivery across logistics, healthcare, cloud platforms, systems integration, and AI-powered applications.
+**Role:** Senior Project Manager  
+**Delivery:** Hybrid Agile / Waterfall  
+**Environment:** Cloud  
+**Domains:** Healthcare • Medical Devices • IoT • Software • Hardware
 
-* [Order Management Systems (OMS)](https://github.com/christopheranthonyagustin/portfolio/tree/main/Projects/ShopifyLarkTracker)
-* [Warehouse Management Systems (WMS)](https://github.com/christopheranthonyagustin/portfolio/tree/main/Projects/AceCom%20System/iLOGON_ACE)
-* [API and Webhook Integrations](https://github.com/christopheranthonyagustin/portfolio/tree/main/Projects/smartmall-netsclick-main)
-* [EDI & File-Based Integrations](https://github.com/christopheranthonyagustin/portfolio/tree/main/Projects/SalesDataConverterApp%20v.1.7.8)
-* [Logistics and Shipment Tracking Solutions](https://github.com/christopheranthonyagustin/portfolio/tree/main/Projects/Track)
-* [Healthcare Technology and Medical Software](https://github.com/christopheranthonyagustin/portfolio/blob/main/Projects/VSynC%20App/medsol-software-vsync_web_app-da4e4eceadf3/README.md)
-* [Cloud-Based Applications](https://github.com/christopheranthonyagustin/portfolio/tree/main/Projects/System%20Pest)
-* [AI-Powered Career Analysis Platform](https://github.com/christopheranthonyagustin/portfolio/tree/main/Projects/CareerOps/CareerOps.Api)
+A regulated healthcare technology platform combining physiological monitoring hardware, embedded firmware, mobile applications, backend services, and cloud infrastructure.
 
-Project case studies and portfolio repositories are available throughout this GitHub repository.
+### Delivery Responsibilities
 
-## Professional Certifications
+- End-to-end project delivery management
+- Cross-functional team coordination
+- Product planning and roadmap alignment
+- Resource allocation and project scheduling
+- Stakeholder and vendor management
+- Risk and issue management
+- Quality and compliance support
+- Documentation governance
+- Verification and validation coordination
+- Clinical validation preparation
+- Audit readiness
+- Manufacturing readiness coordination
 
-### API Academy (2021)
+### Delivery & Quality Framework
 
-* [API Academy Foundations](https://github.com/christopheranthonyagustin/portfolio/blob/main/Certifications/API%20Academy/API%20Academy%20-%20API%20Academy%20Foundations.pdf)
-* [API Designer](https://github.com/christopheranthonyagustin/portfolio/blob/main/Certifications/API%20Academy/API%20Academy%20-%20API%20designer.pdf)
-* [API Product Manager](https://github.com/christopheranthonyagustin/portfolio/blob/main/Certifications/API%20Academy/API%20Academy%20-%20API%20Product%20Manager.pdf)
-* [API Security Architect](https://github.com/christopheranthonyagustin/portfolio/blob/main/Certifications/API%20Academy/API%20Academy%20-%20API%20Security%20Architect.pdf)
-* [Course History](https://github.com/christopheranthonyagustin/portfolio/blob/main/Certifications/API%20Academy/API%20Academy%20-%20Course%20History.pdf)
+```text
+Software
+Agile / Scrum
+      +
+Hardware
+EVT → DVT → PVT → Mass Production Readiness
+      +
+Quality & Risk
+ISO 13485 • IEC 62304 • ISO 14971
+```
 
-### GreyCampus (2021)
+### Technical Scope
 
-* [A Foundation Program in Full Stack Development](https://github.com/christopheranthonyagustin/portfolio/blob/main/Certifications/GreyCampus/Grey%20Campus%20-%20A%20foundation%20in%20full%20stack%20program.pdf)
+- Physiological monitoring
+- Embedded firmware
+- Mobile applications
+- Cloud services
+- Real-time healthcare data
+- Clinical decision support
+- Device communication
+- Hardware/software integration
+- Secure healthcare data
 
-### JPMorgan Chase & Co. (2021)
+[View PM Portfolio Case Study](project-manager/VSynC_MEWS/README.md)
 
-* [Software Engineering Virtual Experience](https://github.com/christopheranthonyagustin/portfolio/blob/main/Certifications/JPMorgan%20Chase%20%26%20Co/J.P.%20Morgan%20Chase%20%26%20Co%20-%20Software%20Engineering%20Virtual%20Experience.pdf)
+---
 
-### European Open University - Professional Certificate Program (2021)
+## 3. Fleet & Transport Management
 
-* [Software Architect Design](https://github.com/christopheranthonyagustin/portfolio/blob/main/Certifications/European%20Open%20University/European%20Open%20University%20-%20Software%20Architecture%20Design.jpg)
+**Role:** Project Manager / Product Owner  
+**Delivery:** Waterfall  
+**Environment:** Cloud  
+**Domains:** Fleet • Transportation • IoT • GPS • Operations • Analytics
 
-### Coursera (2021-2023)
+A fleet and transport management platform that evolved from fleet tracking and dispatch capabilities into a broader transportation operations system.
 
-* [AWS Fundamentals](https://github.com/christopheranthonyagustin/portfolio/blob/main/Certifications/Coursera/AWS%20Fundamentals/Coursera%20-%20AWS%20Fundamentals.pdf)
-* [Google IT Support](https://github.com/christopheranthonyagustin/portfolio/blob/main/Certifications/Coursera/Google%20IT%20Support/Coursera%20-%20Google%20IT%20Support.pdf)
-* [Google IT Automation with Python](https://github.com/christopheranthonyagustin/portfolio/blob/main/Certifications/Coursera/Google%20IT%20Automation%20with%20Python/Coursera%20-%20Google%20IT%20Automation%20with%20Python.pdf)
-* [Google Project Management](https://github.com/christopheranthonyagustin/portfolio/blob/main/Certifications/Coursera/Google%20Project%20Management/Coursera%20-%20Google%20Project%20Management.pdf)
+### Capabilities
 
-### Google (2021)
+- Fleet and vehicle monitoring
+- GPS tracking
+- Dispatch management
+- Route planning
+- Driver activity monitoring
+- Transport operations
+- Resource management
+- Operational reporting
+- Analytics
 
-* [Android Enterprise Professional](https://github.com/christopheranthonyagustin/portfolio/blob/main/Certifications/Google/Google%20-%20Android%20Enterprise%20Professional.pdf)
+[View Project Evidence](Projects/Track)
 
-### KnowledgeHut UpGrad (2021)
+---
 
-* [Android Development](https://github.com/christopheranthonyagustin/portfolio/blob/main/Certifications/Knowledge%20Hut/Knowlege%20Hut%20-%20Android%20Development.pdf)
+## 4. Order & Delivery Tracking Platform
 
-### SkillFront (2021)
+**Role:** Technical Delivery / Product Ownership  
+**Delivery:** Iterative Delivery  
+**Environment:** Cloud  
+**Domains:** E-Commerce • Logistics • Automation • Operations
 
-* [ISO 9001 Quality Management Systems Associate](https://github.com/christopheranthonyagustin/portfolio/blob/main/Certifications/SkillFront/SkillFront%20-ISO%209001%20Quality%20Management%20Systems%20Associate.pdf)
-* [ISO/IEC 27001 Information Security Associate](https://github.com/christopheranthonyagustin/portfolio/blob/main/Certifications/SkillFront/SkillFront%20-%20ISO%20IE%2027001%20Information%20Security%20Associate.pdf)
-* [ISO/IEC 20000 IT Service Management Associate](https://github.com/christopheranthonyagustin/portfolio/blob/main/Certifications/SkillFront/Skill%20Front%20-%20ISO_IEC%2020000%20IT%20Service%20Management%20Associate.pdf)
-* [Certified Associate in Scrum Fundamentals](https://github.com/christopheranthonyagustin/portfolio/blob/main/Certifications/SkillFront/SkillFront%20-%20Certified%20Associate%20In%20Scrum%20Fundamentals.pdf)
-* [Foundations of Business and Entrepreneurship](https://github.com/christopheranthonyagustin/portfolio/blob/main/Certifications/SkillFront/SkillFront%20-%20Foundations%20of%20Business%20and%20Entrepneurship.pdf)
-* [Lean Foundations Professional Certification](https://github.com/christopheranthonyagustin/portfolio/blob/main/Certifications/SkillFront/SkillFront%20-%20Lean%20Foundations%20Professional%20Certification.pdf)
+A logistics operations platform designed to automate order synchronization and delivery-status tracking while giving operations teams centralized visibility.
 
-### VMEdu Inc. (2021)
+### Capabilities
 
-* [Scrum Fundamentals Certified](https://github.com/christopheranthonyagustin/portfolio/blob/main/Certifications/Vmedu/Scrum%20Study%20-%20Scrum%20Fundamentals%20Certified.pdf)
-* [Six Sigma Yellow Belt](https://github.com/christopheranthonyagustin/portfolio/blob/main/Certifications/Vmedu/6%20Sigma%20Study%20-%20Six%20Sigma%20Yellow%20Belt.pdf)
+- Shopify order synchronization
+- Delivery status tracking
+- Shipment dashboard
+- Operational KPIs and trends
+- Channel analysis
+- Workspace automation
+- Order search and tracking
+- Background processing and scheduled jobs
 
-### Six Sigma Online (2021)
+[View Project Evidence](Projects/ShopifyLarkTracker)
 
-* [White Belt Certification](https://github.com/christopheranthonyagustin/portfolio/blob/main/Certifications/Six%20Sigma%20Online/Six%20Sigma%20Online%20-%20White%20Belt%20Certification.pdf)
-* [Letter of Acknowledgement](https://github.com/christopheranthonyagustin/portfolio/blob/main/Certifications/Six%20Sigma%20Online/Six%20Sigma%20Online%20-%20White%20Belt%20Certification%20Letter%20of%20Acknowledgement.pdf)
+---
 
-### Cisco (2021)
+## 5. Data Warehousing & Analytics
 
-* [Cybersecurity Essentials](https://github.com/christopheranthonyagustin/portfolio/blob/main/Certifications/Cisco/Cisco%20-%20Cybersecurity%20Essentials.pdf)
+**Role:** Business Analysis / Technical Delivery  
+**Environment:** LAN / On-Premises  
+**Domains:** Data Warehousing • Business Intelligence • Operations
 
-### Cognitive Class (2021)
+A data warehousing and business intelligence initiative supporting operational reporting, analytics, and data-driven decision making across enterprise information.
 
-* [Data Analysis with Python](https://github.com/christopheranthonyagustin/portfolio/blob/main/Certifications/Cognitive%20Class/Cognitive%20class%20-%20Data%20Analysis%20with%20Python.PNG)
+### Capabilities
 
-### FORTINET (2023)
+- Business and reporting requirements
+- Data analysis
+- Operational reporting
+- Data warehousing
+- Business intelligence
+- Customer information masking
+- Compliance-oriented data handling
 
-* [NSE3 Network Security Associate](https://github.com/christopheranthonyagustin/portfolio/blob/main/Certifications/Fortinet/Fortinet%20-%20NSE%203%20Network%20Security%20Associate.pdf)
+[View Data Warehousing Project](Projects/Data%20Warehousing)
 
-### cPanel University (2024)
+---
 
-* [cPanel Professional Certification](https://github.com/christopheranthonyagustin/portfolio/blob/main/Certifications/cPanel/certification-cPanel-Professional-Certification-Exam-CPP-christopheranthonyagustin%40gmail.com.pdf)
+# Technology & Delivery Portfolio
 
-### Certiprof (2024)
+## E-Commerce & Shopify
 
-* [Scrum Foundation Professional Certificate](https://github.com/christopheranthonyagustin/portfolio/blob/main/Certifications/Certiprof/Certiprof%20-%20Scrum%20Foundation%20Professional%20Cerfication%202024.pdf)
+Experience delivering Shopify solutions across store development, theme customization, technical consulting, e-commerce workflows, and systems integration.
 
-### PMI (2024)
+Selected project evidence:
 
-* [Generative AI Overview for Project Managers](https://github.com/christopheranthonyagustin/portfolio/blob/main/Certifications/PMI/Generative%20AI%20Overview%20for%20Project%20Managers.pdf)
+- [Roborock Singapore](Projects/Shopify/Roborock%20Singapore/README.md)
+- [W Network Singapore](Projects/Shopify/W%20Network%20Singapore/README.md)
+- [Laifen Singapore](Projects/Shopify/Laifen%20Singapore/README.md)
+- [Robam Singapore](Projects/Shopify/Robam%20Singapore/README.md)
+- [Elisir](Projects/Shopify/Elisir/README.md)
 
-## Continuous Professional Development
+For commercial Shopify services:
 
-These certifications reflect ongoing professional development across project management, systems integration, software engineering, cybersecurity, cloud technologies, and healthcare technology.
+**Fiverr:** https://www.fiverr.com/s/DBDxrKD
 
-## Certificate Verification
+---
 
-The original API Academy training portal used for several certifications is no longer publicly available. Copies of the original certificates are provided in this repository as evidence of successful course completion.
+## Cloud & Infrastructure
+
+My infrastructure experience includes enterprise IT operations, cloud platform delivery, deployment environments, disaster recovery, business continuity, and vendor coordination.
+
+| Project | Infrastructure Experience |
+|---|---|
+| [WLocate](Projects/Infra/WLocate/README.md) | Azure migration, Hyper-V, Windows Server, SQL Server, HA, DR, environment management |
+| [BUCLocate](Projects/Infra/BUC/README.md) | Azure VMs, Azure SQL, IIS, Windows Services, GPS/UDP communication, OTA device management |
+| [Comfort Ambulance](Projects/Infra/Comfort/README.md) | Solution deployment, customer environment provisioning, Android MDT integration, MySQL, UAT and go-live |
+| [AceCom Infrastructure](Projects/Infra/AceCom/README.md) | Active Directory, Windows Server, SQL Server, DR, IT governance, vendor management |
+
+---
+
+## Systems Integration
+
+Integration experience across e-commerce, logistics, enterprise applications, and connected systems.
+
+| Integration Area | Evidence |
+|---|---|
+| OMS / WMS / ERP | [AceCom OMS / WMS](Projects/AceCom%20System/iLOGON_ACE) |
+| APIs & Webhooks | [API & Webhook Integration](Projects/smartmall-netsclick-main) |
+| EDI & File Integration | [Sales Data Converter](Projects/SalesDataConverterApp%20v.1.7.8) |
+| Logistics & Shipment Tracking | [Tracking Solutions](Projects/Track) |
+| Healthcare Integration | [Healthcare Technology](Projects/VSynC%20App/medsol-software-vsync_web_app-da4e4eceadf3/README.md) |
+| AI / LLM Integration | [CareerOps](Projects/CareerOps/CareerOps.Api) |
+
+### Integration Technologies
+
+`REST APIs` • `SOAP` • `Webhooks` • `EDI` • `SFTP` • `Amazon S3` • `Third-Party APIs` • `OAuth / OAuth 2.0` • `Lark Base` • `MQTT` • `JSON` • `XML`
+
+---
+
+## Enterprise Applications
+
+Experience includes:
+
+- Order Management Systems (OMS)
+- Warehouse Management Systems (WMS)
+- Fleet Management Systems
+- Job Dispatch Systems
+- Healthcare Information Systems
+- E-Commerce Platforms
+- Enterprise Desktop Applications
+- ERP integrations
+- AI-powered applications
+
+---
+
+## Software Engineering
+
+My software engineering background provides technical depth across:
+
+`C#` • `VB.NET` • `C++` • `Python` • `ASP.NET` • `.NET Framework` • `.NET Core` • `Flutter` • `Android` • `SQL Server` • `MySQL`
+
+Architecture and engineering practices include:
+
+`Monolithic Architecture` • `Microservices` • `Event-Driven Architecture` • `SOA` • `DDD` • `Design Patterns` • `SDD` • `TDD`
+
+---
+
+## Cloud & Infrastructure Technologies
+
+`Microsoft Azure` • `Google Cloud Platform` • `Cloudflare` • `Docker` • `Google Cloud Run` • `Google Artifact Registry` • `Windows Server` • `Linux` • `IIS` • `Active Directory`
+
+---
+
+# Core Delivery Capabilities
+
+## Project & Technical Management
+
+- Project initiation and planning
+- Requirements and scope management
+- Estimation and cost planning
+- Timeline and milestone management
+- Resource and capacity planning
+- Stakeholder management
+- Vendor and third-party coordination
+- Risk, issue, and dependency management
+- Change management
+- UAT planning and coordination
+- Release and go-live management
+- Governance and documentation
+- KPI and status reporting
+- Production support and operational improvement
+
+## Business Analysis
+
+- Business requirements
+- Functional specifications
+- Process mapping
+- Workflow design
+- Solution definition
+- Technical requirements
+- Operational analysis
+- Business intelligence
+- Operational analytics
+- Data-driven decision making
+
+## Quality & Compliance
+
+Experience supporting regulated technology delivery through:
+
+- Quality Management Systems (QMS)
+- ISO 13485
+- IEC 62304
+- ISO 14971
+- Design controls
+- Requirements traceability
+- Risk management
+- Verification and validation
+- Clinical validation preparation
+- Audit readiness
+- Documentation governance
+
+---
+
+# Career Journey
+
+```text
+Software Engineering
+        ↓
+Solution Design
+        ↓
+Enterprise Applications
+        ↓
+Infrastructure Operations
+        ↓
+Cloud Platforms
+        ↓
+Technical Project Management
+```
+
+This progression gives me the ability to work across **business requirements, project delivery, software engineering, enterprise applications, infrastructure, cloud, and systems integration**.
+
+---
+
+# Professional Certifications
+
+Certifications and professional credentials cover project management, Agile/Scrum, API design, software engineering, quality management, information security, IT service management, cloud, infrastructure, cybersecurity, software architecture, data, and healthcare technology.
+
+**25+ certifications and professional credentials**
+
+[View Certifications & Professional Credentials](Certifications/README.md)
+
+---
+
+# Portfolio Structure
+
+This repository contains evidence across several areas:
+
+```text
+Portfolio
+│
+├── Projects/
+│   ├── Enterprise Applications
+│   ├── Shopify
+│   ├── Infrastructure
+│   ├── Systems Integration
+│   ├── Logistics
+│   ├── Healthcare Technology
+│   ├── Data & Analytics
+│   └── AI / CareerOps
+│
+├── project-manager/
+│   └── Detailed PM Case Studies
+│
+└── Certifications/
+    └── Professional Credentials
+```
+
+The **Project Portfolio** demonstrates the breadth of my technology experience.
+
+The **Project Manager Portfolio** provides deeper evidence of how I manage technology projects.
+
+The **website** provides the concise professional overview.
+
+---
+
+## Digital Profiles
+
+- [GitHub](https://github.com/christopheranthonyagustin)
+- [LinkedIn](https://www.linkedin.com/in/christopher-anthony-agustin-35a8084a)
+- [Credly](https://www.credly.com/users/christopher-anthony-agustin)
+
+---
+
+## Contact
+
+**Christopher Anthony Agustin**
+
+**Technical Project Manager | Enterprise Technology | Systems Integration | Software Delivery**
+
+[LinkedIn](https://www.linkedin.com/in/christopher-anthony-agustin-35a8084a) • [GitHub](https://github.com/christopheranthonyagustin)
